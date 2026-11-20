@@ -15,3 +15,7 @@ En la carpeta `libros/` están los 4 libros hojeables del profesor: Física I A,
 ## Libros de Geometría
 
 En `libros/` también están Geometría Plana y Geometría Cartesiana, en la sección **Libros de Geometría** de la página principal.
+
+## Libros de Lógica
+
+En `libros/` está Lógica Formal, en la sección **Libros de Lógica**.
