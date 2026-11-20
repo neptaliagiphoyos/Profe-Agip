@@ -11,3 +11,7 @@ Versión del 18 de noviembre de 2026.
 ## Libros de Física
 
 En la carpeta `libros/` están los 4 libros hojeables del profesor: Física I A, I B, I C y Física II. Se abren desde la sección **Libros** de la página principal.
+
+## Libros de Geometría
+
+En `libros/` también están Geometría Plana y Geometría Cartesiana, en la sección **Libros de Geometría** de la página principal.
