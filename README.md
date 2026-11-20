@@ -19,3 +19,7 @@ En `libros/` también están Geometría Plana y Geometría Cartesiana, en la sec
 ## Libros de Lógica
 
 En `libros/` está Lógica Formal, en la sección **Libros de Lógica**.
+
+## Proyectos educativos
+
+En `libros/` están La Motivación en Matemática y Estructuras algebraicas en secundaria, en la sección **Proyectos educativos**.
